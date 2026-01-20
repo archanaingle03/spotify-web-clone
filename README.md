@@ -4,11 +4,6 @@ A front-end clone of the Spotify Web Player built using HTML and CSS.
 This project replicates the user interface of Spotify with a clean design, responsive layout, and modern styling.
 
 
-## 🚀 Live Demo
-(Add your GitHub Pages link here)
-
----
-
 ## 🛠️ Technologies Used
 - HTML5  
 - CSS3  
