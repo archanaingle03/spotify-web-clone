@@ -38,7 +38,16 @@ This project replicates the user interface of Spotify with a clean design, respo
 ---
 
 ## 📸 Screenshots
-(Add screenshots of the Spotify UI here)
+
+### Home Page
+![Home Page](home.png)
+
+### Playlist Section
+![Playlist Section](playlist.png)
+
+### Music Player
+![Music Player](player.png)
+
 
 ---
 
